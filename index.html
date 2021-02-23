@@ -7,7 +7,7 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 <script>
 function check (val) {
-  return btoa(val) === 'YXJjaGl2ZTQyMA=='
+  return btoa(val) === "bmpjaWFyY2hpdmVz"
 }
 </script>
 <script>
@@ -17,6 +17,7 @@ function check (val) {
             var attempt = $("input#access-code")[0].value
             if (check(attempt)) {
                  $("#access-code-incorrect").addClass('d-none')
+                 $("#subscribers-only").modal('hide');
             } else {
                 $("#access-code-incorrect").removeClass('d-none')
                 $("input#access-code")[0].value = ''
