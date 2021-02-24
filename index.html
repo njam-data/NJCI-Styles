@@ -1,3 +1,4 @@
+<!-- this is code for the pop up that will appear on the old archive page and issues -->
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -7,13 +8,13 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 <script>
 function check (val) {
-  return btoa(val) === "bmpjaWFyY2hpdmVz"
+  return btoa(val) === "bW9yZS1uamNp"
 }
 </script>
 <script>
 	$(document).ready(function(){
         $("#subscribers-only").modal('show');
-        function test (e) {  
+        function test (e) {
             var attempt = $("input#access-code")[0].value
             if (check(attempt)) {
                  $("#access-code-incorrect").addClass('d-none')
@@ -50,7 +51,7 @@ function check (val) {
                 </div>
                 <form class="text-center mt-4">
                     <!-- change out this link when new piano environment is live -->
-                    <a type="submit" href="https://www.nj.com/subscribe/" style="color:#54951B; border:#54951B solid 1px; background-color:inherit" target="_blank" class="btn btn-primary">Not an insider? Get a subscription.</a>
+                    <a type="submit" href="https://njcannabisinsider.nj.com/about/" style="color:#54951B; border:#54951B solid 1px; background-color:inherit" target="_blank" class="btn btn-primary">Not an insider? Get a subscription.</a>
                 </form>
             </div>
         </div>
