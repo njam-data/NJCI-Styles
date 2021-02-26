@@ -3,7 +3,7 @@
 In arc, choose create new story, then choose "longform"
 
 ## the other tabs
-<hr>
+
 
 1\. The planning tab
 
@@ -32,7 +32,7 @@ In arc, choose create new story, then choose "longform"
 -   choose an image that will be the giant first image
 
 ## Compose tab
-<hr>
+
 
 -   add the headline and subheadline here again
 
@@ -79,7 +79,7 @@ In arc, choose create new story, then choose "longform"
 
     -   For the medium photo, click the longform article photo button. It looks like a newspaper. 
 
-    -   [photo of newspaper button]
+    -   ![photo of newspaper button](./images/image.png)
 
         -   in the dialogue box, select medium image, paste in the URL and add a caption. You can leave the credit blank. 
 
