@@ -73,7 +73,7 @@ In arc, choose create new story, then choose "longform"
 
     -   add your welcome section text. 
 
-    -   If you want to make an a line in the welcome section text, add a HTML block and type `<hr>`
+    -   If you want to make a line in the welcome section text, add a HTML block and type `<hr>`
 
 -   The following articles are all laid out the same: **medium photo, H2, H1, then the text**. It is important you keep that exact order. We will go through each of these.
 
