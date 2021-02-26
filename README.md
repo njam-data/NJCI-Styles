@@ -7,15 +7,15 @@ In arc, choose create new story, then choose "longform"
 
 1\. The planning tab
 
--   headline: your headline
+-   headline: your headline. Short and punchy. Probably 2 words.
 
 -   description: Start with "Issue #:" then add your subheadline
 
--   planned ready time: whenever you plan for it to be live
+-   planned ready time: this doesn't actually do anything but you're required to put something here.
 
--   author: make it "Staff: NJ Cannabis Insider staff"
+-   author: make it "NJ Cannabis Insider staff"
 
--   tag: add the @exfiba
+-   tag: @exfiba is automatically added. Just don't remove it.
 
 2\. Circulate tab
 
@@ -34,7 +34,9 @@ In arc, choose create new story, then choose "longform"
 ## Compose tab
 
 
--   add the headline and subheadline here again
+-   headline: this will be populated from the planning tab, but you can edit it here. 
+
+- subheadline here again
 
 -   delete the existing text and replace it with a long form story configuration. Do this by clicking the button that looks like a wrench. 
 
