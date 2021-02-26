@@ -97,9 +97,9 @@ In arc, choose create new story, then choose "longform"
 
         -   add a small photo within the article. Just following the same instructions with the medium photo but choose small instead. Make sure there are a few paragraphs above and below the small image to maintain the flow. 
 
-        -   hr breaks. Add a custom HTML block then add `<hr>` inside it
+        -   line breaks. Add a custom HTML block then add `<hr>` inside it
 
-        -   block quotes
+        -   block quotes: select the relevant text and click the speech bubble button. There is a place to credit the source. 
 
         -  ![block quote photo](./images/quote.png)
 
