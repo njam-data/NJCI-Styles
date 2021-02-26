@@ -75,7 +75,7 @@ In arc, choose create new story, then choose "longform"
 
     -   If you want to make a line in the welcome section text, add a HTML block and type `<hr>`
 
--   The following articles are all laid out the same: **medium photo, H2, H1, then the text**. It is important you keep that exact order. We will go through each of these.
+-   The following articles are all laid out the same: **medium photo, H1, H2, then the text**. It is important you keep that exact order. We will go through each of these.
 
     -   For the medium photo, click the longform article photo button. It looks like a newspaper. 
 
@@ -87,15 +87,15 @@ In arc, choose create new story, then choose "longform"
 
         -   hit submit and exit the dialouge box.
 
-    -   Then type in your "bug", or the green words that announce each sub-article. These are "inside this issue", "the lead" etc. Make the text an h2. This will style it and make it green. 
+    -   Then type in your section header. These are "inside this issue", "the lead" etc. Make the text an h1. This will style it and make it green. 
 
-    -   Then type the article headline. Make it an h1
+    -   Then type the article headline. Make it an h2
 
     -   Then paste in your text. 
 
     -   Optional features:
 
-        -   add a small photo within the article. Just following the same instructions with the medium photo but choose small instead. Make sure there are a few paragraphs above and below the small image to maintain the flow. 
+        -   add a small photo within the article. Just following the same instructions with the medium photo but choose small instead. Make sure there are a few paragraphs above and below the small image to maintain the flow. The style guide does not allow for a large photo, so please avoid using it. 
 
         -   line breaks. Add a custom HTML block then add `<hr>` inside it
 
